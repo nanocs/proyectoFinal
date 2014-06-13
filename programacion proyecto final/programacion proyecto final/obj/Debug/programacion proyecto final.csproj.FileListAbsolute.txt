@@ -1,0 +1,9 @@
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\bin\Debug\programacion proyecto final.exe
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\bin\Debug\programacion proyecto final.pdb
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\obj\Debug\programacion proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\obj\Debug\programacion proyecto final.exe
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\obj\Debug\programacion proyecto final.pdb
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\obj\Debug\programacion_proyecto_final.MainForm.resources
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\obj\Debug\programacion proyecto final.csproj.GenerateResource.Cache
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\bin\Debug\MySql.Data.dll
+C:\Users\Nano\Documents\SharpDevelop Projects\programacion proyecto final\programacion proyecto final\obj\Debug\programacion_proyecto_final.Editar.resources
